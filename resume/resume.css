@@ -1,0 +1,99 @@
+h1 {
+font: bold 5.5em 'Merriweather', serif;
+color: #AE4F4F;
+ text-shadow: .04em .04em .2em #FF8484;
+}
+
+body {
+font-family: 'Darker Grotesque', sans-serif;
+font-size: 100%;
+line-height: 1.75em;
+  background-color: #FBB6B6;
+background-image: url(background.pdf);
+ background-repeat: no-repeat;
+background-size: 90em;
+text-align: center;
+}
+
+
+blockquote {
+border: 1px dashed;
+color: #FABEBE;
+background-color: #FABEBE
+}
+
+
+
+.column {
+  float: left;
+  width: 47.33%;
+  padding: 5px;
+  height: 400px; 
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+h2 {
+font: bold 2.5em 'Merriweather', serif;
+color: #AE4F4F;
+ text-shadow: .04em .04em .2em #FF8484;
+}
+
+h3 {
+font: bold 2.5em 'Merriweather', serif;
+color: #AE4F4F;
+ text-shadow: .04em .04em .2em #FF8484;
+}
+
+
+p {
+Font-style: italic;
+font-size: 1em;
+}
+
+link {
+text-align: center;
+}
+
+ol {
+text-align: center;
+}
+
+
+strong {
+font-style: italic;
+}
+
+dt {
+text-align: center;
+font-weight: bold;
+color: #AE4F4F;
+font-style: italic;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+	  color: #939;
+}
+a:visited {
+	color: #937393;
+}
+a:focus, a:hover {
+	color: #FFC0C0;
+	background-color: #fff;
+}
+a:active {
+	color: #f0f;
+	background-color: #fff;
+}
+
+
